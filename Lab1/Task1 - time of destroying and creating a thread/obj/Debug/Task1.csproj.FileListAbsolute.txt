@@ -1,0 +1,3 @@
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab1\Task1\bin\Debug\CreatingAndDestroyingThreads.exe.config
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab1\Task1\obj\Debug\CreatingAndDestroyingThreads.exe
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab1\Task1\obj\Debug\CreatingAndDestroyingThreads.pdb

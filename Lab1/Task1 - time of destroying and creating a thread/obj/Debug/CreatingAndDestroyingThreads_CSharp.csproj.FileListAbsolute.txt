@@ -1,0 +1,18 @@
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Cpp or C\CppOrC_MultithreadingStart\CreatingAndDestroyingThreads\obj\Debug\CreatingAndDestroyingThreads_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Cpp or C\CppOrC_MultithreadingStart\CreatingAndDestroyingThreads\bin\Debug\CreatingAndDestroyingThreads.exe.config
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Cpp or C\CppOrC_MultithreadingStart\CreatingAndDestroyingThreads\bin\Debug\CreatingAndDestroyingThreads.exe
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Cpp or C\CppOrC_MultithreadingStart\CreatingAndDestroyingThreads\bin\Debug\CreatingAndDestroyingThreads.pdb
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Cpp or C\CppOrC_MultithreadingStart\CreatingAndDestroyingThreads\obj\Debug\CreatingAndDestroyingThreads.exe
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Cpp or C\CppOrC_MultithreadingStart\CreatingAndDestroyingThreads\obj\Debug\CreatingAndDestroyingThreads.pdb
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Multithreading\CreatingAndDestroyingThreads_CSharp\bin\Debug\CreatingAndDestroyingThreads.exe.config
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Multithreading\CreatingAndDestroyingThreads_CSharp\obj\Debug\CreatingAndDestroyingThreads.exe
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Multithreading\CreatingAndDestroyingThreads_CSharp\obj\Debug\CreatingAndDestroyingThreads.pdb
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Multithreading\CreatingAndDestroyingThreads_CSharp\bin\Debug\CreatingAndDestroyingThreads.exe
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Multithreading\CreatingAndDestroyingThreads_CSharp\bin\Debug\CreatingAndDestroyingThreads.pdb
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Multithreading\CreatingAndDestroyingThreads_CSharp\obj\Debug\CreatingAndDestroyingThreads_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Exercise_1\CreatingAndDestroyingThreads_CSharp\bin\Debug\CreatingAndDestroyingThreads.exe.config
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Exercise_1\CreatingAndDestroyingThreads_CSharp\obj\Debug\CreatingAndDestroyingThreads.exe
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Exercise_1\CreatingAndDestroyingThreads_CSharp\obj\Debug\CreatingAndDestroyingThreads.pdb
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Exercise_1\CreatingAndDestroyingThreads_CSharp\bin\Debug\CreatingAndDestroyingThreads.exe
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Exercise_1\CreatingAndDestroyingThreads_CSharp\bin\Debug\CreatingAndDestroyingThreads.pdb
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Exercise_1\CreatingAndDestroyingThreads_CSharp\obj\Debug\CreatingAndDestroyingThreads_CSharp.csprojResolveAssemblyReference.cache
