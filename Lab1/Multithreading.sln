@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2 - maximum number of t
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3 - counting edges in graph (sequence v concurrent)", "Task3 - counting edges in graph (sequence v concurrent)\Task3 - counting edges in graph (sequence v concurrent).csproj", "{B24C9A9E-4130-4F31-ABB2-3114202DCD4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4 - concurrent method of GNP graph generation", "Task4 - concurrent method of GNP graph generation\Task4 - concurrent method of GNP graph generation.csproj", "{5EB30F7E-BC7A-463D-9FD9-C420A587A437}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +75,19 @@ Global
 		{B24C9A9E-4130-4F31-ABB2-3114202DCD4A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{B24C9A9E-4130-4F31-ABB2-3114202DCD4A}.Release|Win32.ActiveCfg = Release|Any CPU
 		{B24C9A9E-4130-4F31-ABB2-3114202DCD4A}.Release|x64.ActiveCfg = Release|Any CPU
+		{5EB30F7E-BC7A-463D-9FD9-C420A587A437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB30F7E-BC7A-463D-9FD9-C420A587A437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB30F7E-BC7A-463D-9FD9-C420A587A437}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{5EB30F7E-BC7A-463D-9FD9-C420A587A437}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{5EB30F7E-BC7A-463D-9FD9-C420A587A437}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{5EB30F7E-BC7A-463D-9FD9-C420A587A437}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5EB30F7E-BC7A-463D-9FD9-C420A587A437}.Debug|x64.Build.0 = Debug|Any CPU
+		{5EB30F7E-BC7A-463D-9FD9-C420A587A437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB30F7E-BC7A-463D-9FD9-C420A587A437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EB30F7E-BC7A-463D-9FD9-C420A587A437}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{5EB30F7E-BC7A-463D-9FD9-C420A587A437}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{5EB30F7E-BC7A-463D-9FD9-C420A587A437}.Release|Win32.ActiveCfg = Release|Any CPU
+		{5EB30F7E-BC7A-463D-9FD9-C420A587A437}.Release|x64.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

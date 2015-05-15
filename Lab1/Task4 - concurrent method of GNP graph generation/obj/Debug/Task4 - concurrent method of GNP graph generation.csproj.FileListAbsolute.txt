@@ -1,0 +1,5 @@
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab1\Task4 - concurrent method of GNP graph generation\bin\Debug\Task4 - concurrent method of GNP graph generation.exe.config
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab1\Task4 - concurrent method of GNP graph generation\bin\Debug\Task4 - concurrent method of GNP graph generation.exe
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab1\Task4 - concurrent method of GNP graph generation\bin\Debug\Task4 - concurrent method of GNP graph generation.pdb
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab1\Task4 - concurrent method of GNP graph generation\obj\Debug\Task4 - concurrent method of GNP graph generation.exe
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab1\Task4 - concurrent method of GNP graph generation\obj\Debug\Task4 - concurrent method of GNP graph generation.pdb

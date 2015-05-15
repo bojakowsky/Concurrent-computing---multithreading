@@ -9,7 +9,8 @@ namespace Task_3___counting_edges_in_graph__sequence_v_concurrent_
     class Graph_sequence
     {
         readonly int number_of_graph_vertex;
-        int [,] graph_array_representation;
+        private int [,] graph_array_representation;
+        private int result;
 
         private Graph_sequence() { }
         public Graph_sequence(int size)
@@ -27,8 +28,15 @@ namespace Task_3___counting_edges_in_graph__sequence_v_concurrent_
             {
                 for (int j = 0 ; j < number_of_graph_vertex ; j++)
                 {
-                    graph_array_representation[i, j] = random.Next(0, 2);
-                    graph_array_representation[j, i] = graph_array_representation[i, j];
+                    if (i != j)
+                    {
+                        graph_array_representation[i, j] = random.Next(0, 2);
+                        graph_array_representation[j, i] = graph_array_representation[i, j];
+                    }
+                    else
+                    {
+                        graph_array_representation[i, j] = 0;
+                    }
                 }
             }
         }
@@ -39,28 +47,27 @@ namespace Task_3___counting_edges_in_graph__sequence_v_concurrent_
             {
                 for (int j = 0; j < number_of_graph_vertex; j++)
                 {
-                    Console.Write(graph_array_representation[i, j] + " ");
-                } Console.WriteLine();
+                    Console.Write(graph_array_representation[i, j] + "   ");
+                } Console.WriteLine("\n");
             }
         }
 
-        private int countEdges(int which_vertex)
+        public int countEdges()
         {
-            int result = 0;
-            for (int i = 0; i < number_of_graph_vertex; i++)
+            for (int i = 0; i < number_of_graph_vertex - 1; i++)
             {
-                result += graph_array_representation[which_vertex, i];
+                for (int j = i + 1; j < number_of_graph_vertex; j++)
+                {
+                    result += graph_array_representation[i, j];
+                }
             }
             return result;
         }
 
-        public void printEdgesForEachVertex()
+        public void printEdges()
         {
-            for (int i = 0; i < number_of_graph_vertex; i++)
-            {
-
-                Console.WriteLine("Vertex " + (i+1) + ", edges: " + countEdges(i));
-            }
+            Console.WriteLine("Edges: " + countEdges())
+                ;
         }
 
         
