@@ -1,0 +1,16 @@
+C:\Users\student\Desktop\Exercise 4 _ Laboratories\Task1 - Thread managing window app\Task1 - Thread managing window app\bin\Debug\Task1 - Thread managing window app.exe.config
+C:\Users\student\Desktop\Exercise 4 _ Laboratories\Task1 - Thread managing window app\Task1 - Thread managing window app\bin\Debug\Task1 - Thread managing window app.exe
+C:\Users\student\Desktop\Exercise 4 _ Laboratories\Task1 - Thread managing window app\Task1 - Thread managing window app\bin\Debug\Task1 - Thread managing window app.pdb
+C:\Users\student\Desktop\Exercise 4 _ Laboratories\Task1 - Thread managing window app\Task1 - Thread managing window app\obj\Debug\Task1___Thread_managing_window_app.Properties.Resources.resources
+C:\Users\student\Desktop\Exercise 4 _ Laboratories\Task1 - Thread managing window app\Task1 - Thread managing window app\obj\Debug\Task1 - Thread managing window app.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Exercise 4 _ Laboratories\Task1 - Thread managing window app\Task1 - Thread managing window app\obj\Debug\Task1 - Thread managing window app.exe
+C:\Users\student\Desktop\Exercise 4 _ Laboratories\Task1 - Thread managing window app\Task1 - Thread managing window app\obj\Debug\Task1 - Thread managing window app.pdb
+C:\Users\student\Desktop\Exercise 4 _ Laboratories\Task1 - Thread managing window app\Task1 - Thread managing window app\obj\Debug\Task1___Thread_managing_window_app.App.resources
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task1 - Thread managing window app\bin\Debug\Task1 - Thread managing window app.exe.config
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task1 - Thread managing window app\obj\Debug\Task1 - Thread managing window app.exe
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task1 - Thread managing window app\obj\Debug\Task1 - Thread managing window app.pdb
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task1 - Thread managing window app\bin\Debug\Task1 - Thread managing window app.exe
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task1 - Thread managing window app\bin\Debug\Task1 - Thread managing window app.pdb
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task1 - Thread managing window app\obj\Debug\Task1___Thread_managing_window_app.App.resources
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task1 - Thread managing window app\obj\Debug\Task1___Thread_managing_window_app.Properties.Resources.resources
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task1 - Thread managing window app\obj\Debug\Task1 - Thread managing window app.csproj.GenerateResource.Cache
