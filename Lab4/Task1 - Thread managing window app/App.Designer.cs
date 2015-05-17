@@ -240,6 +240,7 @@ namespace Task1___Thread_managing_window_app
             progressBar1.Value = 2;
             thread.Join();
             thread.Abort();
+            _exit = false;
 
         }
 

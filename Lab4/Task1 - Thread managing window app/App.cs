@@ -27,8 +27,11 @@ namespace Task1___Thread_managing_window_app
         {
             result = 1;
             AppendTextBox(result.ToString());
+          
+
             thread = new Thread(calcPermutation);
             thread.Start();
+           
             
         }
 
@@ -87,12 +90,10 @@ namespace Task1___Thread_managing_window_app
 
         public void calcPermutation()
         {
-
             return_nTextBox();
-            if (!n.ToString().Equals(n_textbox.Text))
-
             setProgressMaxAndStep(n, 1);
             AppendTextBoxEndTime((n * 200).ToString());
+            
             for (decimal i = 2; i <= n ; i ++)
             {
                 if (_pause)
