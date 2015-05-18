@@ -1,0 +1,5 @@
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task2 - Permutation on N threads\bin\Debug\Task2 - Permutation on N threads.exe.config
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task2 - Permutation on N threads\bin\Debug\Task2 - Permutation on N threads.exe
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task2 - Permutation on N threads\bin\Debug\Task2 - Permutation on N threads.pdb
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task2 - Permutation on N threads\obj\Debug\Task2 - Permutation on N threads.exe
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task2 - Permutation on N threads\obj\Debug\Task2 - Permutation on N threads.pdb
