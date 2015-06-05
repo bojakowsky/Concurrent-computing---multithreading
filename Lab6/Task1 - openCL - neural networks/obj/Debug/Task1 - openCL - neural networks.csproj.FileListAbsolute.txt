@@ -1,0 +1,8 @@
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab6\Task1 - openCL - neural networks\bin\Debug\Task1 - openCL - neural networks.exe.config
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab6\Task1 - openCL - neural networks\obj\Debug\Task1___openCL___neural_networks.Properties.Resources.resources
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab6\Task1 - openCL - neural networks\obj\Debug\Task1 - openCL - neural networks.csproj.GenerateResource.Cache
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab6\Task1 - openCL - neural networks\obj\Debug\Task1___openCL___neural_networks.Form1.resources
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab6\Task1 - openCL - neural networks\bin\Debug\Task1 - openCL - neural networks.exe
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab6\Task1 - openCL - neural networks\bin\Debug\Task1 - openCL - neural networks.pdb
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab6\Task1 - openCL - neural networks\obj\Debug\Task1 - openCL - neural networks.exe
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab6\Task1 - openCL - neural networks\obj\Debug\Task1 - openCL - neural networks.pdb
