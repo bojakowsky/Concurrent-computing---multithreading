@@ -52,20 +52,29 @@ namespace Task4___Multithreaded_Game_of_Life
         {
             int x = (int)obj_x;
             int y = (int)obj_y;
-            while (true)
-            {
+
                 int neighbours = returnNumberOfNeighbours(x, y);
                 if (array[x, y] == false && neighbours == 3)
-                    array[x, y] = true;
+                    next_array[x, y] = true;
                 else if (array[x, y] == true && (neighbours == 2 || neighbours == 3))
-                { }
-                else array[x, y] = false;
-                Thread.Sleep(5000);
-            }
+                { next_array[x, y] = true; }
+                else next_array[x, y] = false;
         }
 
         static int n = 10;
         static bool[,] array = new bool[n, n];
+        static bool[,] next_array = new bool[n, n];
+
+        static void copy(bool[,] a, bool[,] n_a)
+        {
+            for (int i = 0; i < n; i++)
+            {
+                for (int j = 0; j < n; j++)
+                {
+                    a[i, j] = n_a[i, j];
+                }
+            }
+        }
 
         static void Main(string[] args)
         {
@@ -83,19 +92,29 @@ namespace Task4___Multithreaded_Game_of_Life
             timer.Start();
 
             Thread[,] threads = new Thread[n, n];
-            for (int i = 0; i < n; i++)
+            while(true)
             {
-                for (int j = 0; j < n; j++)
+                for (int i = 0; i < n; i++)
                 {
-                    threads[i, j] = new Thread(() => liveOrDie(i,j));
-                    threads[i, j].Start();
-                    Thread.Sleep(50);
-                    
-                    //threads[i, j].Join();
-
+                    for (int j = 0; j < n; j++)
+                    {
+                        threads[i, j] = new Thread(() => liveOrDie(i,j));
+                        threads[i, j].Start();
+                        Thread.Sleep(50);
+                    }
                 }
-            }
+                Thread.Sleep(1000);
 
+                for (int i = 0; i < n; i++)
+                {
+                    for (int j = 0; j < n; j++)
+                    {
+                        threads[i, j].Join();
+                    }
+                }
+                Thread.Sleep(1000);
+                copy(array, next_array);
+            }
         }
     }
 }
