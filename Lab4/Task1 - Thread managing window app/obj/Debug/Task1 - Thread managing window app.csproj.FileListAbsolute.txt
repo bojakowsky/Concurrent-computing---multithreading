@@ -14,3 +14,4 @@ C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task1 - Thread m
 C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task1 - Thread managing window app\obj\Debug\Task1___Thread_managing_window_app.App.resources
 C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task1 - Thread managing window app\obj\Debug\Task1___Thread_managing_window_app.Properties.Resources.resources
 C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task1 - Thread managing window app\obj\Debug\Task1 - Thread managing window app.csproj.GenerateResource.Cache
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task1 - Thread managing window app\obj\Debug\Task1 - Thread managing window app.csprojResolveAssemblyReference.cache

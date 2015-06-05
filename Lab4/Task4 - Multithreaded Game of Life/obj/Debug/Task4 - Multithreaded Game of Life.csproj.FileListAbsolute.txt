@@ -3,4 +3,3 @@ C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task4 - Multithr
 C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task4 - Multithreaded Game of Life\bin\Debug\Task4 - Multithreaded Game of Life.pdb
 C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task4 - Multithreaded Game of Life\obj\Debug\Task4 - Multithreaded Game of Life.exe
 C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task4 - Multithreaded Game of Life\obj\Debug\Task4 - Multithreaded Game of Life.pdb
-C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task4 - Multithreaded Game of Life\obj\Debug\Task4 - Multithreaded Game of Life.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task4 - Image representation\bin\Debug\Task4 - Image representation.exe.config
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task4 - Image representation\bin\Debug\Task4 - Image representation.exe
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task4 - Image representation\bin\Debug\Task4 - Image representation.pdb
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task4 - Image representation\obj\Debug\Task4___Image_representation.Form1.resources
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task4 - Image representation\obj\Debug\Task4___Image_representation.Properties.Resources.resources
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task4 - Image representation\obj\Debug\Task4 - Image representation.csproj.GenerateResource.Cache
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task4 - Image representation\obj\Debug\Task4 - Image representation.exe
+C:\Users\BRZ\Desktop\Concurrent computing - multithreading\Lab4\Task4 - Image representation\obj\Debug\Task4 - Image representation.pdb

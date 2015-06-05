@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Threading;
+using System.Drawing;
+using System.Windows.Forms;
+
 namespace Task4___Multithreaded_Game_of_Life
 {
     class Program
@@ -27,7 +30,7 @@ namespace Task4___Multithreaded_Game_of_Life
                         Console.Write(Convert.ToInt16(array[i, j]));
                     Console.WriteLine();
                 }
-                Thread.Sleep(5000);
+                Thread.Sleep(2000);
             }
             
         }
@@ -36,13 +39,14 @@ namespace Task4___Multithreaded_Game_of_Life
         {
             int howMany = 0;
             
-            for (int i = x - 1; i < x + 1; i++)
+            for (int i = x - 1; i <= x + 1; i++)
             {
-                for (int j = y - 1; j < y + 1; j++)
+                for (int j = y - 1; j <= y + 1; j++)
                 {
                     if (i == -1 || j == -1) continue;
+                    else if (i == n || j == n) continue;
                     else if (i == x && j == y) continue;
-                    if (array[i%n, j%n] == true)
+                    if (array[i, j] == true)
                         howMany++;
                 }
             }
@@ -54,6 +58,7 @@ namespace Task4___Multithreaded_Game_of_Life
             int y = (int)obj_y;
 
                 int neighbours = returnNumberOfNeighbours(x, y);
+                if (x == n || y == n) return;
                 if (array[x, y] == false && neighbours == 3)
                     next_array[x, y] = true;
                 else if (array[x, y] == true && (neighbours == 2 || neighbours == 3))
@@ -114,6 +119,7 @@ namespace Task4___Multithreaded_Game_of_Life
                 }
                 Thread.Sleep(1000);
                 copy(array, next_array);
+
             }
         }
     }
